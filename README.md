@@ -56,6 +56,16 @@ class SecurityConfig : WebSecurityConfigurerAdapter() {
 
 ```
 
+### yml
+```
+server:
+  port: 50000
+spring:
+  security:
+    user:
+      name: admin
+      password: admin
+```
 
 
 ## 관리하는 프로젝트
