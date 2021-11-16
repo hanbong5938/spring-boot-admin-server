@@ -65,6 +65,10 @@ spring:
     user:
       name: admin
       password: admin
+  #boot:
+  #  admin:
+  #   ui:
+  #     public-url: https://gorani.wecruitpro.com:443/  # 프록시 사용하는 경우
 ```
 
 
